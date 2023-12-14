@@ -1,4 +1,4 @@
-import photo from "./images/image-hero.jpg";
+
 
 export default function Navbar(){
     return(
