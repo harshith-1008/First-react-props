@@ -8,7 +8,7 @@ import photo7 from "./images/image-curiosity.jpg"
 import photo8 from "./images/image-fisheye.jpg"
 
 
-export default [
+const Data = [
     {
         id:1,
         img: photo1,
@@ -50,3 +50,5 @@ export default [
         title: "MAKE IT FISHEYE"
     }
 ]
+
+export default Data;

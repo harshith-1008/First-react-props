@@ -1,6 +1,6 @@
 
 
-export default function(props){
+export default function Categories(props){
     return(
         <div className="flex flex-col"> 
                 <div className="flex mb-6 mr-6 relative">

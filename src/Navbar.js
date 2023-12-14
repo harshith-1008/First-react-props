@@ -3,7 +3,7 @@ import photo from "./images/image-hero.jpg";
 export default function Navbar(){
     return(
     <div>
-        {/* <img src={photo}/> */}
+        
         <div className="bg-black flex flex-col text-white pl-40 pr-40">
             <nav className="flex flex-row mt-20 items-center mb-10">
                 <span class="mr-96 text-3xl ml-0 basis-2/4 font-extrabold">
